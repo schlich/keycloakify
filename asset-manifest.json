@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.54add66f.js",
+    "main.js": "/static/js/main.edc6c098.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.f843d9da.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.66d332f9.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.54c6e9fe.chunk.js",
@@ -162,7 +162,7 @@
     "static/media/keycloakify-logo.png": "/static/media/keycloakify-logo.1eb8361a6d2e64574ec7.png",
     "index.html": "/index.html",
     "static/media/downArrow.svg": "/static/media/downArrow.23758f4035a7425d82253ba8af96a748.svg",
-    "main.54add66f.js.map": "/static/js/main.54add66f.js.map",
+    "main.edc6c098.js.map": "/static/js/main.edc6c098.js.map",
     "refractor-core-import.f843d9da.chunk.js.map": "/static/js/react-syntax-highlighter/refractor-core-import.f843d9da.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.66d332f9.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.66d332f9.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.54c6e9fe.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.54c6e9fe.chunk.js.map",
@@ -317,6 +317,6 @@
     "react-syntax-highlighter_languages_refractor_yaml.8d52ddd0.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_yaml.8d52ddd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.54add66f.js"
+    "static/js/main.edc6c098.js"
   ]
 }
