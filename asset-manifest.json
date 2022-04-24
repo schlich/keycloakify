@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.59773d47.js",
+    "main.js": "/static/js/main.86932c89.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.83469218.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.e3523745.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.8ece0a9f.chunk.js",
@@ -157,14 +157,14 @@
     "static/media/Keycloakify_demo_full-vp9-chrome.webm": "/static/media/Keycloakify_demo_full-vp9-chrome.57fe241beb2da9e10d42.webm",
     "static/media/keycloakify_frontend_validation-vp9-chrome.webm": "/static/media/keycloakify_frontend_validation-vp9-chrome.af3a6e8e67ab60f2c866.webm",
     "static/media/keycloakify_frontend_validation.mp4": "/static/media/keycloakify_frontend_validation.dcf6327ce618018c48a2.mp4",
-    "static/media/theme_select-vp9-chrome.webm": "/static/media/theme_select-vp9-chrome.bdcee5ec678803988852.webm",
-    "static/media/theme_select.mp4": "/static/media/theme_select.4418e6335660c0010e82.mp4",
+    "static/media/theme_select-vp9-chrome.webm": "/static/media/theme_select-vp9-chrome.1244c8256e90c528cb19.webm",
+    "static/media/theme_select.mp4": "/static/media/theme_select.f6dab48137c6cf91b3f5.mp4",
     "static/media/keycloakify-logo-hero-moving.png": "/static/media/keycloakify-logo-hero-moving.d9e176f2e8d5ba48c4a7.png",
     "static/media/keycloakify-logo.png": "/static/media/keycloakify-logo.1eb8361a6d2e64574ec7.png",
     "static/media/keycloakify-logo-hero-still.png": "/static/media/keycloakify-logo-hero-still.4aecec9336edafff19b5.png",
     "index.html": "/index.html",
     "static/media/downArrow.svg": "/static/media/downArrow.23758f4035a7425d82253ba8af96a748.svg",
-    "main.59773d47.js.map": "/static/js/main.59773d47.js.map",
+    "main.86932c89.js.map": "/static/js/main.86932c89.js.map",
     "refractor-core-import.83469218.chunk.js.map": "/static/js/react-syntax-highlighter/refractor-core-import.83469218.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.e3523745.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.e3523745.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.8ece0a9f.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.8ece0a9f.chunk.js.map",
@@ -319,6 +319,6 @@
     "react-syntax-highlighter_languages_refractor_yaml.888e521b.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_yaml.888e521b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.59773d47.js"
+    "static/js/main.86932c89.js"
   ]
 }
