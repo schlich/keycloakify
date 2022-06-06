@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.e872a338.chunk.js",
-    "main.js.map": "/static/js/main.e872a338.chunk.js.map",
+    "main.js": "/static/js/main.e96c6deb.chunk.js",
+    "main.js.map": "/static/js/main.e96c6deb.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.4471adc3.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.4471adc3.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.940d9755.chunk.js",
@@ -306,12 +306,12 @@
     "react-syntax-highlighter_languages_refractor_yaml.js.map": "/static/js/react-syntax-highlighter_languages_refractor_yaml.da0977b7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b240baf0.js",
     "runtime-main.js.map": "/static/js/runtime-main.b240baf0.js.map",
-    "static/js/153.56378902.chunk.js": "/static/js/153.56378902.chunk.js",
-    "static/js/153.56378902.chunk.js.map": "/static/js/153.56378902.chunk.js.map",
+    "static/js/153.48fa630c.chunk.js": "/static/js/153.48fa630c.chunk.js",
+    "static/js/153.48fa630c.chunk.js.map": "/static/js/153.48fa630c.chunk.js.map",
     "static/js/154.0deb0baa.chunk.js": "/static/js/154.0deb0baa.chunk.js",
     "static/js/154.0deb0baa.chunk.js.map": "/static/js/154.0deb0baa.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/153.56378902.chunk.js.LICENSE.txt": "/static/js/153.56378902.chunk.js.LICENSE.txt",
+    "static/js/153.48fa630c.chunk.js.LICENSE.txt": "/static/js/153.48fa630c.chunk.js.LICENSE.txt",
     "static/media/Keycloakify_demo.5b07ad68.mp4": "/static/media/Keycloakify_demo.5b07ad68.mp4",
     "static/media/Keycloakify_demo_full-vp9-chrome.e098d057.webm": "/static/media/Keycloakify_demo_full-vp9-chrome.e098d057.webm",
     "static/media/downArrow.svg": "/static/media/downArrow.23758f40.svg",
@@ -324,7 +324,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b240baf0.js",
-    "static/js/153.56378902.chunk.js",
-    "static/js/main.e872a338.chunk.js"
+    "static/js/153.48fa630c.chunk.js",
+    "static/js/main.e96c6deb.chunk.js"
   ]
 }
